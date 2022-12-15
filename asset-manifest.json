@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AddMeetup-app_REACT/static/css/main.56d7db81.css",
+    "main.js": "/AddMeetup-app_REACT/static/js/main.d4378802.js",
+    "index.html": "/AddMeetup-app_REACT/index.html",
+    "main.56d7db81.css.map": "/AddMeetup-app_REACT/static/css/main.56d7db81.css.map",
+    "main.d4378802.js.map": "/AddMeetup-app_REACT/static/js/main.d4378802.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56d7db81.css",
+    "static/js/main.d4378802.js"
+  ]
+}
